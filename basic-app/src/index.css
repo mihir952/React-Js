@@ -1,0 +1,9 @@
+.container{
+  /* display: flex; */
+  background-color: #b9b4b4;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  
+}
