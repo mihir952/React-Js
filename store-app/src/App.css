@@ -1,0 +1,41 @@
+a{
+    padding: 10px;
+    width: 50px;
+    display: inline-block;
+    background-color: rgb(231, 240, 240);
+    border: 2px solid ;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.quantity input{
+    width: 50px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 4px;
+    margin: 0 px;
+    padding: 11px;
+    font-size: large;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    background-color: antiquewhite;
+}
+.container{
+    text-align: center;
+    border: 1px solid #CCC;
+    padding: 30px;
+    border-radius: 8px;
+
+}
+
+.quantity {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }

@@ -4,7 +4,7 @@ import CompB from "./CompB";
 function CompC(){
     
     return(
-        <div>
+        <div className="container">
             <h1>I am ComponnetC</h1>
             <FirstName.Consumer> 
                 {(fname)=>{
